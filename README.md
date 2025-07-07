@@ -30,4 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1510-find-lucky-integer-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
