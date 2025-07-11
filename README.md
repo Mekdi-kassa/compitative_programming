@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1646-kth-missing-positive-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2551-apply-operations-to-an-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0001-two-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0661-image-smoother](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0661-image-smoother) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Recursion
 |  |
 | ------- |
