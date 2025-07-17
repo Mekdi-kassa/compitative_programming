@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0001-two-sum) |
+| [0290-word-pattern](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0020-valid-parentheses) |
+| [0290-word-pattern](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0290-word-pattern) |
 | [3396-valid-word](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3396-valid-word) |
 ## Trie
 |  |
