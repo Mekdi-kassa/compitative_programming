@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0136-single-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0661-image-smoother](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0661-image-smoother) |
 | [0917-boats-to-save-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0917-boats-to-save-people) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
