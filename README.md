@@ -147,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0136-single-number) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
