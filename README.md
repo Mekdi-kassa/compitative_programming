@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0022-generate-parentheses) |
 | [0290-word-pattern](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0290-word-pattern) |
 | [3396-valid-word](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3396-valid-word) |
 ## Trie
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0022-generate-parentheses) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Bit Manipulation
 |  |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1813-maximum-erasure-value) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
