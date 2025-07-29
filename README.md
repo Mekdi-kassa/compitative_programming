@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0022-generate-parentheses) |
+| [0093-restore-ip-addresses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0093-restore-ip-addresses) |
 | [0290-word-pattern](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0290-word-pattern) |
 | [2502-sort-the-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2502-sort-the-people) |
 | [3396-valid-word](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3396-valid-word) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0022-generate-parentheses) |
+| [0093-restore-ip-addresses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0093-restore-ip-addresses) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search Tree
 |  |
