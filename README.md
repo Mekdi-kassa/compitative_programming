@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0645-set-mismatch) |
 | [0917-boats-to-save-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0917-boats-to-save-people) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0633-sum-of-square-numbers) |
 | [0917-boats-to-save-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0917-boats-to-save-people) |
