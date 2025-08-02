@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0032-longest-valid-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0093-restore-ip-addresses) |
 | [0290-word-pattern](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0290-word-pattern) |
 | [2502-sort-the-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2502-sort-the-people) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Bit Manipulation
