@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1813-maximum-erasure-value) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2211-k-radius-subarray-averages](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2211-k-radius-subarray-averages) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1813-maximum-erasure-value) |
+| [2211-k-radius-subarray-averages](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2211-k-radius-subarray-averages) |
 ## Backtracking
 |  |
 | ------- |
