@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0142-linked-list-cycle-ii) |
 | [0290-word-pattern](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0290-word-pattern) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0020-valid-parentheses) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1813-maximum-erasure-value) |
