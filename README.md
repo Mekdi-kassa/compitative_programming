@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [2502-sort-the-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2502-sort-the-people) |
 | [3396-valid-word](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3396-valid-word) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Trie
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2211-k-radius-subarray-averages) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Backtracking
 |  |
 | ------- |
