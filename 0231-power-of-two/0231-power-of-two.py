@@ -6,4 +6,3 @@ class Solution:
             return True
 
         return self.isPowerOfTwo(n/2)
-    
