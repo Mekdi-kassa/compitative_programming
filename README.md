@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0424-longest-repeating-character-replacement) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0492-construct-the-rectangle](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0492-construct-the-rectangle) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0633-sum-of-square-numbers) |
 | [0917-boats-to-save-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0917-boats-to-save-people) |
