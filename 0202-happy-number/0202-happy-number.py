@@ -13,5 +13,3 @@ class Solution(object):
             n = get_sum_of_squares(n)
         
         return n == 1
-
-        
