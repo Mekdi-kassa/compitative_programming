@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0075-sort-colors) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0046-permutations) |
 | [0093-restore-ip-addresses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0093-restore-ip-addresses) |
 | [0306-additive-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0306-additive-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
