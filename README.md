@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0917-boats-to-save-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0940-fruit-into-baskets) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
