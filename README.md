@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0560-subarray-sum-equals-k) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0424-longest-repeating-character-replacement) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0645-set-mismatch) |
 | [0917-boats-to-save-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0917-boats-to-save-people) |
