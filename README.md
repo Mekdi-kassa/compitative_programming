@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0088-merge-sorted-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0054-spiral-matrix) |
 | [0661-image-smoother](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0733-flood-fill) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0054-spiral-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2551-apply-operations-to-an-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
