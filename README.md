@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1217-relative-sort-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1813-maximum-erasure-value) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0567-permutation-in-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2465-shifting-letters-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2465-shifting-letters-ii) |
