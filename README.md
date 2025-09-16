@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0633-sum-of-square-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2955-account-balance-after-rounded-purchase](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2955-account-balance-after-rounded-purchase) |
 ## String
 |  |
 | ------- |
