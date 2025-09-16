@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1813-maximum-erasure-value) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2502-sort-the-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0567-permutation-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1321-get-equal-substrings-within-budget) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2465-shifting-letters-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2465-shifting-letters-ii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
