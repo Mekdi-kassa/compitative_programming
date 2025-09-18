@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0797-rabbits-in-forest) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0917-boats-to-save-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0940-fruit-into-baskets) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0645-set-mismatch) |
+| [0797-rabbits-in-forest](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0633-sum-of-square-numbers) |
+| [0797-rabbits-in-forest](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2955-account-balance-after-rounded-purchase) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0011-container-with-most-water) |
+| [0797-rabbits-in-forest](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0917-boats-to-save-people) |
 | [2487-optimal-partition-of-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2487-optimal-partition-of-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
