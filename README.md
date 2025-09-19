@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0733-flood-fill) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0733-flood-fill) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -392,4 +394,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0004-median-of-two-sorted-arrays) |
+## Graph
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
