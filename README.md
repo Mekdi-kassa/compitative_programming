@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Stack
 |  |
 | ------- |
