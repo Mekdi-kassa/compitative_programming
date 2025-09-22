@@ -5,7 +5,8 @@ class Solution:
             return False
         target = sum1 // 2
         n = len(nums)
-        @cache 
+        memo = {}
+        
         def back(i,ans):
             if  ans == target:
                 return True
@@ -13,7 +14,8 @@ class Solution:
                 return False
             if i > n - 1:
                 return False
-            
-            return back(i + 1, ans+nums[i]) or back(i + 1 , ans)
+            if (i ,ans) not in memo:
+                memo[(i,ans)] = back(i + 1, ans+nums[i]) or back(i + 1 , ans)
+            return memo[(i,ans)]
         return back(0 ,0)
 
