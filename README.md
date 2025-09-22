@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0380-insert-delete-getrandom-o1) |
+| [0416-partition-equal-subset-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0643-maximum-average-subarray-i) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1013-fibonacci-number) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Bit Manipulation
