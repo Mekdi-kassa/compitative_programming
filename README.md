@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0342-power-of-four) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1013-fibonacci-number) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -413,5 +415,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
