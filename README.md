@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0494-target-sum) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0733-flood-fill) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
