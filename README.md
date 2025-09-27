@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0661-image-smoother) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0733-flood-fill) |
+| [0747-min-cost-climbing-stairs](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0797-rabbits-in-forest) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0747-min-cost-climbing-stairs](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1250-longest-common-subsequence) |
