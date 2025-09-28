@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0064-minimum-path-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0146-lru-cache) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0242-valid-anagram) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0164-maximum-gap) |
