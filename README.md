@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0643-maximum-average-subarray-i) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1013-fibonacci-number) |
