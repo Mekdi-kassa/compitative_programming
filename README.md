@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0797-rabbits-in-forest) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0909-stone-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1217-relative-sort-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0797-rabbits-in-forest) |
+| [0909-stone-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0747-min-cost-climbing-stairs) |
+| [0909-stone-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1250-longest-common-subsequence) |
@@ -483,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0062-unique-paths) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
