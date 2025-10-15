@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0139-word-break) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0290-word-pattern) |
 | [0306-additive-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0306-additive-number) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0139-word-break) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0648-replace-words) |
 ## Counting
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0733-flood-fill) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0155-min-stack) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0380-insert-delete-getrandom-o1) |
