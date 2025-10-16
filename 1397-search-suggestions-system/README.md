@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/search-suggestions-system">Search Suggestions System</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an array of strings <code>products</code> and a string <code>searchWord</code>.</p>
+<h2><a href="https://leetcode.com/problems/search-suggestions-system">1397. Search Suggestions System</a></h2><h3>Medium</h3><hr><p>You are given an array of strings <code>products</code> and a string <code>searchWord</code>.</p>
 
 <p>Design a system that suggests at most three product names from <code>products</code> after each character of <code>searchWord</code> is typed. Suggested products should have common prefix with <code>searchWord</code>. If there are more than three products with a common prefix return the three lexicographically minimums products.</p>
 
