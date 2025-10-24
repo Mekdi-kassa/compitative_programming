@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0120-triangle) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0146-lru-cache) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0733-flood-fill) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
