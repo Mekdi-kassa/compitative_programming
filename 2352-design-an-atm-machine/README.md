@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/design-an-atm-machine">Design an ATM Machine</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>There is an ATM machine that stores banknotes of <code>5</code> denominations: <code>20</code>, <code>50</code>, <code>100</code>, <code>200</code>, and <code>500</code> dollars. Initially the ATM is empty. The user can use the machine to deposit or withdraw any amount of money.</p>
+<h2><a href="https://leetcode.com/problems/design-an-atm-machine">2352. Design an ATM Machine</a></h2><h3>Medium</h3><hr><p>There is an ATM machine that stores banknotes of <code>5</code> denominations: <code>20</code>, <code>50</code>, <code>100</code>, <code>200</code>, and <code>500</code> dollars. Initially the ATM is empty. The user can use the machine to deposit or withdraw any amount of money.</p>
 
 <p>When withdrawing, the machine prioritizes using banknotes of <strong>larger</strong> values.</p>
 
