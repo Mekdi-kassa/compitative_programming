@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2169-simple-bank-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2211-k-radius-subarray-averages](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2211-k-radius-subarray-averages) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2169-simple-bank-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2169-simple-bank-system) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2487-optimal-partition-of-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2502-sort-the-people) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2169-simple-bank-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2169-simple-bank-system) |
 | [2551-apply-operations-to-an-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2551-apply-operations-to-an-array) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0380-insert-delete-getrandom-o1) |
+| [2169-simple-bank-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2169-simple-bank-system) |
 ## Greedy
 |  |
 | ------- |
