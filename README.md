@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1397-search-suggestions-system) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2465-shifting-letters-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2465-shifting-letters-ii) |
 | [2487-optimal-partition-of-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2487-optimal-partition-of-string) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0917-boats-to-save-people) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2352-design-an-atm-machine](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2352-design-an-atm-machine) |
 | [2487-optimal-partition-of-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2487-optimal-partition-of-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
