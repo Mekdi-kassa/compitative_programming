@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/vowels-of-all-substrings">Vowels of All Substrings</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given a string <code>word</code>, return <em>the <strong>sum of the number of vowels</strong> (</em><code>&#39;a&#39;</code>, <code>&#39;e&#39;</code><em>,</em> <code>&#39;i&#39;</code><em>,</em> <code>&#39;o&#39;</code><em>, and</em> <code>&#39;u&#39;</code><em>)</em> <em>in every substring of </em><code>word</code>.</p>
+<h2><a href="https://leetcode.com/problems/vowels-of-all-substrings">2187. Vowels of All Substrings</a></h2><h3>Medium</h3><hr><p>Given a string <code>word</code>, return <em>the <strong>sum of the number of vowels</strong> (</em><code>&#39;a&#39;</code>, <code>&#39;e&#39;</code><em>,</em> <code>&#39;i&#39;</code><em>,</em> <code>&#39;o&#39;</code><em>, and</em> <code>&#39;u&#39;</code><em>)</em> <em>in every substring of </em><code>word</code>.</p>
 
 <p>A <strong>substring</strong> is a contiguous (non-empty) sequence of characters within a string.</p>
 
