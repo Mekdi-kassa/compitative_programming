@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2187-vowels-of-all-substrings](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2187-vowels-of-all-substrings) |
+| [2496-count-days-spent-together](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2496-count-days-spent-together) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2955-account-balance-after-rounded-purchase) |
 ## String
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2465-shifting-letters-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2465-shifting-letters-ii) |
 | [2487-optimal-partition-of-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2487-optimal-partition-of-string) |
+| [2496-count-days-spent-together](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2496-count-days-spent-together) |
 | [2502-sort-the-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2502-sort-the-people) |
 | [3396-valid-word](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3396-valid-word) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
