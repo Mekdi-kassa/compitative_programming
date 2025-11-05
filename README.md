@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2169-simple-bank-system) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2429-design-a-food-rating-system) |
+| [2434-design-a-number-container-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2434-design-a-number-container-system) |
 | [2487-optimal-partition-of-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2429-design-a-food-rating-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2429-design-a-food-rating-system) |
+| [2434-design-a-number-container-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2434-design-a-number-container-system) |
 ## Matrix
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2169-simple-bank-system) |
 | [2352-design-an-atm-machine](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2352-design-an-atm-machine) |
 | [2429-design-a-food-rating-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2429-design-a-food-rating-system) |
+| [2434-design-a-number-container-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2434-design-a-number-container-system) |
 ## Greedy
 |  |
 | ------- |
@@ -558,4 +561,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2429-design-a-food-rating-system) |
+| [2434-design-a-number-container-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
