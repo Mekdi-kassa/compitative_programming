@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2169-simple-bank-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2211-k-radius-subarray-averages](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2211-k-radius-subarray-averages) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1646-kth-missing-positive-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
