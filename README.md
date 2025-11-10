@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2496-count-days-spent-together](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2496-count-days-spent-together) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2955-account-balance-after-rounded-purchase) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3201-distribute-candies-among-children-ii) |
 ## String
 |  |
 | ------- |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3201-distribute-candies-among-children-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0062-unique-paths) |
 | [2187-vowels-of-all-substrings](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2187-vowels-of-all-substrings) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3201-distribute-candies-among-children-ii) |
 ## Game Theory
 |  |
 | ------- |
