@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/distribute-candies-among-children-ii">Distribute Candies Among Children II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given two positive integers <code>n</code> and <code>limit</code>.</p>
+<h2><a href="https://leetcode.com/problems/distribute-candies-among-children-ii">3201. Distribute Candies Among Children II</a></h2><h3>Medium</h3><hr><p>You are given two positive integers <code>n</code> and <code>limit</code>.</p>
 
 <p>Return <em>the <strong>total number</strong> of ways to distribute </em><code>n</code> <em>candies among </em><code>3</code><em> children such that no child gets more than </em><code>limit</code><em> candies.</em></p>
 
