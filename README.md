@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1013-fibonacci-number) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
