@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2211-k-radius-subarray-averages](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2211-k-radius-subarray-averages) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2187-vowels-of-all-substrings](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2187-vowels-of-all-substrings) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2496-count-days-spent-together](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2496-count-days-spent-together) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2955-account-balance-after-rounded-purchase) |
 ## String
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2187-vowels-of-all-substrings](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2187-vowels-of-all-substrings) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2429-design-a-food-rating-system) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0733-flood-fill) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Recursion
 |  |
