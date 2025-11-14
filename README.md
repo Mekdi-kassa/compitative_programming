@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3944-minimum-time-to-activate-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3944-minimum-time-to-activate-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3944-minimum-time-to-activate-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3944-minimum-time-to-activate-string) |
 ## Sorting
 |  |
 | ------- |
