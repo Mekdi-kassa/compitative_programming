@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1753-path-with-minimum-effort) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3944-minimum-time-to-activate-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3944-minimum-time-to-activate-string) |
 ## Sorting
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-design-an-atm-machine](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2352-design-an-atm-machine) |
 | [2487-optimal-partition-of-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2487-optimal-partition-of-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Linked List
 |  |
 | ------- |
