@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0494-target-sum) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0290-word-pattern) |
 | [0306-additive-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0306-additive-number) |
 | [0392-is-subsequence](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0567-permutation-in-string) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0733-flood-fill) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0733-flood-fill) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
@@ -619,10 +624,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1325-path-with-maximum-probability) |
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0399-evaluate-division) |
 | [1753-path-with-minimum-effort](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1753-path-with-minimum-effort) |
 ## Data Stream
 |  |
