@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1813-maximum-erasure-value) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2169-simple-bank-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2169-simple-bank-system) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1753-path-with-minimum-effort) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2600-maximum-tastiness-of-candy-basket) |
