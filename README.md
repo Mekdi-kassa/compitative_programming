@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1813-maximum-erasure-value) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1898-maximum-number-of-removable-characters) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1397-search-suggestions-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1397-search-suggestions-system) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1898-maximum-number-of-removable-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2187-vowels-of-all-substrings](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2187-vowels-of-all-substrings) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1753-path-with-minimum-effort) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1898-maximum-number-of-removable-characters) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0633-sum-of-square-numbers) |
 | [0917-boats-to-save-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0917-boats-to-save-people) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1898-maximum-number-of-removable-characters) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
