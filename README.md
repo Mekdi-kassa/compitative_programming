@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2169-simple-bank-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1753-path-with-minimum-effort) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1898-maximum-number-of-removable-characters) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
