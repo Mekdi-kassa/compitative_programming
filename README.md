@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -654,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0295-find-median-from-data-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
