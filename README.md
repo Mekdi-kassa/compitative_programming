@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2169-simple-bank-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2187-minimum-time-to-complete-trips) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2211-k-radius-subarray-averages](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2211-k-radius-subarray-averages) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1898-maximum-number-of-removable-characters) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2187-minimum-time-to-complete-trips) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2600-maximum-tastiness-of-candy-basket) |
