@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2826-sorting-three-groups](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2826-sorting-three-groups) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2904-sorting-three-groups](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2904-sorting-three-groups) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [3750-closest-equal-element-queries](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3750-closest-equal-element-queries) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2826-sorting-three-groups](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2826-sorting-three-groups) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2904-sorting-three-groups](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2904-sorting-three-groups) |
 | [3750-closest-equal-element-queries](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3750-closest-equal-element-queries) |
 | [3944-minimum-time-to-activate-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3944-minimum-time-to-activate-string) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2830-maximize-the-profit-as-the-salesman) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1250-longest-common-subsequence) |
 | [2187-vowels-of-all-substrings](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2187-vowels-of-all-substrings) |
 | [2826-sorting-three-groups](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2826-sorting-three-groups) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2904-sorting-three-groups](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2904-sorting-three-groups) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Bit Manipulation
