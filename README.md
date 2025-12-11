@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0792-binary-search) |
+| [0792-number-of-matching-subsequences](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0792-number-of-matching-subsequences) |
 | [0797-rabbits-in-forest](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0797-rabbits-in-forest) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0909-stone-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0909-stone-game) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0648-replace-words) |
+| [0792-number-of-matching-subsequences](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0792-number-of-matching-subsequences) |
 | [0797-rabbits-in-forest](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1217-relative-sort-array) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0648-replace-words) |
+| [0792-number-of-matching-subsequences](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0792-number-of-matching-subsequences) |
 | [1250-longest-common-subsequence](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1321-get-equal-substrings-within-budget) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0648-replace-words) |
+| [0792-number-of-matching-subsequences](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0792-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1397-search-suggestions-system) |
 ## Counting
 |  |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0300-longest-increasing-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0792-binary-search) |
+| [0792-number-of-matching-subsequences](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0792-number-of-matching-subsequences) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0912-random-pick-with-weight) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1321-get-equal-substrings-within-budget) |
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0645-set-mismatch) |
+| [0792-number-of-matching-subsequences](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0792-number-of-matching-subsequences) |
 | [0917-boats-to-save-people](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0917-boats-to-save-people) |
 | [1217-relative-sort-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1217-relative-sort-array) |
 | [1397-search-suggestions-system](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1397-search-suggestions-system) |
@@ -506,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-number-of-matching-subsequences](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0792-number-of-matching-subsequences) |
 | [0909-stone-game](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1236-n-th-tribonacci-number) |
