@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0733-flood-fill) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1753-path-with-minimum-effort](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1753-path-with-minimum-effort) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0733-flood-fill) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1753-path-with-minimum-effort](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1753-path-with-minimum-effort) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0547-number-of-provinces) |
 | [1325-path-with-maximum-probability](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0547-number-of-provinces) |
 | [1753-path-with-minimum-effort](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1753-path-with-minimum-effort) |
 ## Data Stream
 |  |
