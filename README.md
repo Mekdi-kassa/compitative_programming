@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0213-house-robber-ii) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0310-minimum-height-trees) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0322-coin-change) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0200-number-of-islands) |
 | [0661-image-smoother](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0733-flood-fill) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -670,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0547-number-of-provinces) |
 | [1753-path-with-minimum-effort](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1753-path-with-minimum-effort) |
