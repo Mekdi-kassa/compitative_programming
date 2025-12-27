@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0399-evaluate-division) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0290-word-pattern) |
 | [0306-additive-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0306-additive-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0392-is-subsequence](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0424-longest-repeating-character-replacement) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0231-power-of-two) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0645-set-mismatch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
