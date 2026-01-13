@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0342-power-of-four) |
