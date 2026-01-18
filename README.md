@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0204-count-primes) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0217-contains-duplicate) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mekdi-kassa/compitative_programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mekdi-kassa/compitative_programming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0295-find-median-from-data-stream) |
@@ -655,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0169-majority-element) |
 ## Graph
 |  |
 | ------- |
