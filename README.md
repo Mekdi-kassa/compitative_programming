@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0164-maximum-gap) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0318-maximum-product-of-word-lengths) |
