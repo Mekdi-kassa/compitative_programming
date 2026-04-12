@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0048-rotate-image) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mekdi-kassa/compitative_programming/tree/master/0078-subsets) |
