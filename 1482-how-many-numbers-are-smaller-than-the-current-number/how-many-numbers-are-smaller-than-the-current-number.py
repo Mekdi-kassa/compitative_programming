@@ -1,19 +1,14 @@
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-        n = len(nums)
-        ans = [0] * n
-        mat = [[nums[i]  , i] for i in range(len(nums))]
-        mat.sort(key=lambda x: x[0])
-        prev = float('inf')
-        j = float('inf')
-        for i in range(len(mat)):
-            key , value = mat[i]
-            if key != prev:
-                ans[value] = i
-                prev = key
-                j = i
+        arr = [[nums[i],i] for i in range(len(nums))]
+        arr.sort(key=lambda x: x[0])
+        ans = [0]*len(nums)
+        for i in range(len(arr)):
+            if i > 0 and arr[i][0] == arr[i - 1][0]:
+                ans[arr[i][1]] = ans[arr[i-1][1]]
             else:
-                ans[value] = j
+                ans[arr[i][1]] = i
+                
 
-        print(mat)
         return ans
+
