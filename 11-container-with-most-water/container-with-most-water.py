@@ -8,7 +8,6 @@ class Solution:
         while left < right:
             cal = min(height[left] , height[right])
             max1 = max(max1 , (cal * (right - left)))
-            print(max1)
             if cal == height[left]:
                 left += 1
             else:
