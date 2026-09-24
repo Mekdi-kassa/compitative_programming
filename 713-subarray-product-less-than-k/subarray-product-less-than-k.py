@@ -9,7 +9,7 @@ class Solution:
             return 0
         while right < n:
             mul *= nums[right]
-            while mul >= k and left < n:
+            while mul >= k:
                 mul //= nums[left]
                 left += 1
             count += (right - left + 1)
